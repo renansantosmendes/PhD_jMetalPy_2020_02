@@ -123,4 +123,4 @@ The current release of jMetalPy (v1.5.5) contains the following components:
 * [v1.5.4] Added [CompositeSolution](https://github.com/jMetal/jMetalPy/blob/master/jmetal/core/solution.py#L111) class to support mixed combinatorial problems. [#69](https://github.com/jMetal/jMetalPy/issues/69)
 
 ## License
-This project is licensed under the terms of the MIT - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the terms of the MIT - see the [LICENSE](LICENSE) file for details.# PhD_jMetalPy_2020_02
